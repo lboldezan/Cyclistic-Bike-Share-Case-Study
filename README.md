@@ -11,3 +11,5 @@ Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 d
 Analyse datasets from Cyclistic - a bike-share company in Chicago.
 For the purpose of this case study I will use data collected between September 2021 - August 2022.
 Cyclistic is a **fictional company**, the raw data was collected from Motivate International Inc.The dataset is located [Here](https://www.divvybikes.com/system-data)
+
+### Kaggle Notebook [here](https://www.kaggle.com/code/lboldezan/cyclistic-bike-share-case-study-using-r)
